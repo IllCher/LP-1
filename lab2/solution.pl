@@ -1,4 +1,6 @@
 % вариант 18
+:- discontiguous close1/2.
+:- discontiguous open/2.
 
 open('обувной','вторник').
 open('обувной','среда').
